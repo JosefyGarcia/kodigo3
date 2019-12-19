@@ -1,0 +1,490 @@
+@charset "utf-8";
+/* CSS Document */
+
+/******************************
+
+[Table of Contents]
+
+1. 1600px
+2. 1440px
+3. 1280px
+4. 1199px
+5. 1024px
+6. 991px
+7. 959px
+8. 880px
+9. 768px
+10. 767px
+11. 539px
+12. 479px
+13. 400px
+
+******************************/
+
+
+@media only screen and (max-width: 1600px)
+{
+	
+}
+
+/************
+2. 1440px
+************/
+
+@media only screen and (max-width: 1440px)
+{
+	.main_nav ul
+	{
+		margin-right: 80px;
+	}
+	.main_nav ul li
+	{
+		margin-right: 50px;
+	}
+}
+
+/************
+3. 1380px
+************/
+
+@media only screen and (max-width: 1380px)
+{
+	
+}
+
+/************
+3. 1280px
+************/
+
+@media only screen and (max-width: 1280px)
+{	.texto3{
+		margin-right: 0rem;
+		margin-left:1rem;
+		font-size:20px ;
+		margin-top:2rem
+		
+	}.cuadro2{
+	font-weight:bold;
+	color: rgb(99, 95, 95);
+	font-size:20px ;
+}
+	.logo
+	{
+		padding-left: 50px;
+	}
+	.logo a
+	{
+		font-size: 28px;
+	}
+	.search
+	{
+		width: auto;
+		margin-right: 40px;
+	}
+	.main_nav ul
+	{
+		margin-right: 68px;
+	}
+	.next_section_scroll
+	{
+		display: block;
+	}
+	.footer_logo
+	{
+		padding-left: 0px;
+	}.card-body
+	{
+		width: 100%;
+		padding: 30px;
+		
+		height: 100%;
+	}
+}
+
+/************
+4. 1199px
+************/
+
+@media only screen and (max-width: 1199px)
+{
+	
+	.card_image
+	{
+		padding-left: 0%;
+		width: 100%;
+		
+	}
+	.card-body
+	{
+		width: 100%;
+		padding: 30px;
+	
+	}.centrado{
+		text-align: center;
+		
+			display:block;
+			margin:auto;
+			
+	}
+}
+
+/************
+4. 1100px
+************/
+
+@media only screen and (max-width: 1100px)
+{
+	
+}
+
+/************
+5. 1024px
+************/
+
+@media only screen and (max-width: 1024px)
+{
+	
+}
+
+/************
+6. 991px
+************/
+
+@media only screen and (max-width: 991px)
+{
+	
+	.reverse{
+		display: -webkit-flex; /* Safari */
+		-webkit-flex-direction: column-reverse; /* Safari 6.1+ */
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	.card_image
+{
+width: 40%;
+margin:0px;
+background-color:#ffffff;
+	
+}
+	.card_image img
+	{
+		width: 100%;
+	}
+	.card-body
+	{
+		width: 100%;
+		
+		
+	}.centrado{
+		text-align: center;
+		
+			display:block;
+			margin:auto;
+			
+	}
+	.card_image
+	{
+		width: 100%;
+	}
+	.card-body
+	{
+		width: 100%;
+		padding: 30px;
+		
+	}.centrado{
+		text-align: center;
+		
+			display:block;
+			margin:auto;
+			
+	}
+	.main_nav
+	{
+		display: none;
+	}
+	.hamburger_container
+	{
+		display: inline-block;
+	}
+	.footer_social
+	{
+		margin-bottom: 60px;
+	}
+	.footer_cr
+	{
+		display: none;
+	}
+	.footer_cr_
+	{
+		display: block;
+	}
+	
+	
+}
+
+/************
+7. 959px
+************/
+
+@media only screen and (max-width: 959px)
+{
+	
+}
+
+/************
+8. 880px
+************/
+
+@media only screen and (max-width: 880px)
+{
+	.card
+	{
+		flex-direction: column;
+	}.card_image
+	{
+		padding-left: 0%;
+		width: 100%;
+	}.texto1{
+		margin-right: 0.5rem;
+		margin-left: 0.5rem;
+		font-size:22px ;
+		margin-top:2rem
+	}
+	.texto2{
+		margin-right: 0.5rem;
+		margin-left: 1rem;
+		font-size:17px ;
+		
+	}
+	
+}
+
+/************
+9. 768px
+************/
+
+@media only screen and (max-width: 768px)
+{
+	.card_image
+	{
+		padding-left: 0%;
+		width: 100%;
+	}
+	card_image{
+		margin:0px;
+		margin-left: 0px;
+	}
+	.main_nav
+	{
+		display: none;
+	}
+	.hamburger_container
+	{
+		display: inline-block;
+	}
+	.footer_social
+	{
+		margin-bottom: 60px;
+	}
+	.footer_cr
+	{
+		display: none;
+	}
+	.footer_cr_
+	{
+		display: block;
+	}
+	.card-body
+	{
+		width: 100%;
+		padding: 30px;
+		
+		height: 100%;
+	}.centrado{
+		text-align: center;
+		
+			display:block;
+			margin:auto;
+			
+	}
+	
+	
+}
+
+/************
+10. 767px
+************/
+
+@media only screen and (max-width: 767px)
+{
+	h1
+	{
+		font-size: 36px;
+	}
+	.logo
+	{
+		padding-left: 30px;
+	}
+	.portfolio_category
+	{
+		margin-right: 25px;
+	}
+	.card-body
+	{
+		width: 100%;
+		padding: 30px;
+		
+		height: 100%;
+	}.card_image
+	{
+	background-color:#ffffff;	
+	}
+}
+
+/************
+11. 575px
+************/
+
+@media only screen and (max-width: 575px)
+{
+	.logo
+	{
+		padding-left: 15px;
+	}
+	.hamburger_container
+	{
+		margin-right: 5px;
+	}
+	.footer_col ul li a
+	{
+		font-size: 14px;
+	}
+	.footer_cr_2
+	{
+		font-size: 14px;
+	}
+	.card-body
+	{
+		width: 100%;
+		padding: 30px;
+		
+		height: 100%;
+	}
+}
+
+/************
+11. 539px
+************/
+
+@media only screen and (max-width: 539px)
+{
+	
+}
+
+/************
+12. 480px
+************/
+
+@media only screen and (max-width: 480px)
+{
+	h1{font-size: 24px;}
+	h2{font-size: 20px;}
+	p{font-size: 13px;}
+	.header
+	{
+		height: 68px;
+	}
+	.header.scrolled
+	{
+		height: 50px;
+		background: rgba(0, 0, 0, 0.9);
+	}
+	.logo a
+	{
+		font-size: 18px;
+	}
+	.button
+	{
+		height: 40px;
+		width: 140px;
+		font-size: 11px;
+		line-height: 37px;
+	}
+	.button a
+	{
+		font-size: 11px;
+		line-height: 37px;
+	}
+	.section_title span
+	{
+		font-size: 14px;
+		margin-top: 22px;
+	}
+	.card-header2
+	{
+		font-size: 10px;
+	}
+	.card-title2
+	{
+		font-size: 20px;
+		margin-bottom: 13px;
+	}
+	.card-text2
+	{
+		font-size: 13px;
+	}
+	.card-link2
+	{
+		margin-top: 16px;
+	}
+	.portfolio_category
+	{
+		margin-right: 20px;
+	}
+	.portfolio_category a
+	{
+		font-size: 13px;
+	}.card-body
+	{
+		width: 100%;
+		padding: 30px;
+		
+		height: 100%;
+	}.texto1{
+		margin-right: 0.5rem;
+		margin-left: 0.5rem;
+		font-size:22px ;
+		margin-top:2rem
+	}
+	.texto2{
+		margin-right: 0.5rem;
+		margin-left: 1rem;
+		font-size:17px ;
+		
+	}.textoN{
+		color:#ff6b09;
+		font-style: oblique;
+		font-weight:bold;
+	}.hs{
+		font-size:1.5em ;
+	}	
+	}
+}
+
+/************
+13. 479px
+************/
+
+@media only screen and (max-width: 479px)
+{
+	
+}
+
+/************
+14. 400px
+************/
+
+@media only screen and (max-width: 400px)
+{
+	
+}
