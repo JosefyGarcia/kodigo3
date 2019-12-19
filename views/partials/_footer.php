@@ -29,7 +29,7 @@
 												
 						<a href="https://www.facebook.com/KOD1GO.ORG/"><img style="padding-left:1rem" src="../web/assets/images/facebook.png"  alt=""></a>
 						<a href="https://www.instagram.com/kodigosv/"><img style="padding-left:1rem" src="../web/assets/images/instagram.png"  alt=""></a>
-						<a href="https://sv.linkedin.com/company/kod1go"><img style="padding-left:1rem" src=".../web/assets/images/linkedin.png"  class="foo2" alt=""></a>
+						<a href="https://sv.linkedin.com/company/kod1go"><img style="padding-left:1rem" src="../web/assets/images/linkedin.png" alt=""></a>
 						
 
 				</div>
